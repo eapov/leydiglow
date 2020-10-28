@@ -1,0 +1,12 @@
+div.owl-carousel.owl-theme {
+    background-color: #e0ffff;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+div.owl-carousel.owl-theme .item img {
+    height: 194.46px;
+    object-fit: contain;
+    border: 1px solid #ffffff;
+}
